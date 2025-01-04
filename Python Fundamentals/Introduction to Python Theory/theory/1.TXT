@@ -1,0 +1,24 @@
+1. Introduction to Python and its Features (simple, high-level, interpreted language).
+        - Python is most populer,high-leval advance programing language.
+
+
+
+
+2. History and evolution of Python.
+
+
+
+
+
+3.Advantages of using Python over other programming languages
+
+
+
+
+4.Installing Python and setting up the development environment (Anaconda, PyCharm, or VSCode).
+
+
+
+
+
+5.• Writing and executing your first Python program.

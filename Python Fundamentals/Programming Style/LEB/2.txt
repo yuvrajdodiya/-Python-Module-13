@@ -1,0 +1,16 @@
+1.Understanding Python’s PEP 8 guidelines.
+    
+
+
+
+
+2.Indentation, comments, and naming conventions in Python.
+
+
+
+
+
+
+
+
+3.• Writing readable and maintainable code.

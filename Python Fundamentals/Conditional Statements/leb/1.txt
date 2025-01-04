@@ -1,0 +1,36 @@
+• Introduction to conditional statements: if, else, elif.
+
+        =if statements:  -jab ek condition ho tab if ka use hota he 
+            if condition:
+                true
+           
+        =if else statement:  jab do  condition ho tab if else statement use hota he 
+
+            if condition:
+                true 
+            else:
+                fales
+
+        =elif statement: jab 2 se jyada condition ho tab elif statement use hota he
+
+            if condition:
+                true
+            elif:
+                true
+            elif:
+                true
+            elif :
+                fales 
+________________________________________________________________________________________________________________
+
+• Nested if-else conditions statement : jab if ke ander or ek if statement likhna ho tab Nested if else use hota he
+
+    if statement:
+        if condition:
+            true
+        else:
+            fales
+    else:
+        if condition:
+            true
+        else:
