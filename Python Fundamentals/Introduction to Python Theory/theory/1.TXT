@@ -1,24 +1,38 @@
 1. Introduction to Python and its Features (simple, high-level, interpreted language).
         - Python is most populer,high-leval advance programing language.
-
-
-
+        - interpreted object oriented language
+using 
+        -development
+        -web application
+        -mobile application
+        -destop application
 
 2. History and evolution of Python.
 
-
-
+        python conceived in the late 1980s by Guido van Rossum
+ and first released in 1991.   
 
 
 3.Advantages of using Python over other programming languages
-
-
+        - Python supports modules and packages which encourages program modularity and code reuse.
+          Improved program maintenance, code is extremely readable.
+          Works Everywhere like as on Windows, macOS, Linux, and even mobile devices.
+          Variable do not need declaration.
 
 
 4.Installing Python and setting up the development environment (Anaconda, PyCharm, or VSCode).
 
+        - download
+                python.org
+        -Installation 
+                windows : run to installation 
+        -IDEL(integrated development learing )
+                it is using learing perpose only.
+        -vs code:
+                installation in web 
+                Install Packages
+                start coding 
 
 
-
-
-5.• Writing and executing your first Python program.
+5.• Writing and executing your first Python program.    
+       - print("HELLO PYTHON")

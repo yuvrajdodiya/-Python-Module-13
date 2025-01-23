@@ -1,0 +1,21 @@
+• Understanding how to access and manipulate strings.
+
+     Strings in Python are sequences of characters.and Index start at 0.
+      subject = "Python"
+      print(text[0])  
+      print(text[-1])
+
+
+• Basic operations: concatenation, repetition, string methods (upper(), lower(), etc.).
+
+            concatenation : Concatenation means combining two or more strings
+                             into a single string.
+            repetition : you can repet string using this operation 
+
+            string methods:-
+            upper() :  Converts all characters in the string to uppercase.
+            lower(): Converts all characters in the string to lowercase.
+
+• String slicing
+
+            
